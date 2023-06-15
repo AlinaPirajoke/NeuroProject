@@ -1,2 +1,3 @@
 streamlit
 tensorflow
+altair==4.0
